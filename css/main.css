@@ -1,0 +1,70 @@
+ main {
+  padding-top: 100px;
+} 
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.contactsHead {
+  font-family: arial;
+  color: #484848;
+  font-size: 36px;
+}
+
+.addA {
+  font-family: arial;
+  color: #484848;
+  font-size: 28px;
+}
+
+.inValues  {
+  height: 30px;
+  width: 100%;
+  /*margin-top: 5px;
+  margin-bottom: 18px;*/
+  margin: 5px 0px 18px 0px;
+  border: 1px solid #c8c8c8;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.row {
+  font-family: arial;
+  font-size: 14px;
+  font-weight: bold;
+  color: #484848;
+}
+
+button[type='submit'] {
+    color: white;
+    background: #4584be;
+    border: 0;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 0;
+    padding: 8px 12px 8px 12px;
+    height: auto;
+}
+
+#contactInfo {
+  font-family: arial;
+  color: #484848;
+  font-size: 28px;
+
+}
+
+#printOut p {
+  font-size: 14px;
+}
+
+/*#contactRow {
+  border: 1px solid black;
+} */
+
+#contactRow li {
+  font-weight: 500;
+}
